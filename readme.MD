@@ -14,16 +14,16 @@ If you got tired of being bad at the game, no worries, there is a solution for t
 
 Having played around with four types of fitnesses (so far) all of them being more restrictive than the other, we've got some intersting results of the variaton of the fitness based on the impact of different evolutionary operators. Here you can see some of the fitnesses graphed for the same number of generations but with different mutation rates and how the "learning curve" smoothens out and eventually converges faster to a solution:
 
-Collision fitness with 25% chance of mutation
+Collision fitness with 25% chance of mutation  
 ![](collisionFitness.png)
 
-Collision fitness with 5% chance of mutation
+Collision fitness with 5% chance of mutation  
 ![](collisionFitnessLowerMutation.png)
 
-A more restrictive collision fitness with 25% chance of mutation  
+A more restrictive collision fitness with 25% chance of mutation    
 ![](positiveCollisionFitness.png)
 
-A more restrictive collision fitness with 5% chance of mutation  
+A more restrictive collision fitness with 5% chance of mutation   
 ![](positiveCollisionFitnessLowerMutation.png)
 
 # Technical details
