@@ -12,7 +12,7 @@ If you got tired of being bad at the game, no worries, there is a solution for t
 
 # Some interesting results
 
-Having played around with four types of fitnesses (so far) all of them being more restrictive than the other, we've got some intersting results of the evolution of the fitness varying based on the impact of different evolutionary operators. Here you can see some of the fitnesses graphed for the same number of generations but with different mutation rates and how the "learning curve" smoothens out and eventually converges faster to a solution:
+Having played around with four types of fitnesses (so far) all of them being more restrictive than the other, we've got some intersting results of the variaton of the fitness based on the impact of different evolutionary operators. Here you can see some of the fitnesses graphed for the same number of generations but with different mutation rates and how the "learning curve" smoothens out and eventually converges faster to a solution:
 
 Collision fitness with 25% chance of mutation
 ![](collisionFitness.png)
